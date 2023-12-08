@@ -1,0 +1,1 @@
+$wnd.org_wilson_MyAppWidgetset.runAsyncCallback2('Z$b(1897,1,{221:1,1:1});_.Yjb=function xge(){this.Zjb(this.b)};_.Zjb=function yge(a){this.$jb(a)};_.$jb=function zge(a){};_.mf=function Bge(){this.Yjb();CAd().f7(this.a.qc())};N3g(wp)(2);\n//# sourceURL=org.wilson.MyAppWidgetset-2.js\n')
